@@ -4,6 +4,9 @@ To run, open this directory in your terminal and run "docker compose up". Then i
 
 Please refer to these sources to learn about the functioning of this system. 
 
+Please install Docker before you start
+https://docs.docker.com/get-started/get-docker/
+
 On HTTP basics
 developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
